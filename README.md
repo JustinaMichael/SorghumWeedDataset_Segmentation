@@ -26,7 +26,7 @@ Data is acquired from Sri Ramaswamy Memorial (SRM) Care Farm, Chengalpattu distr
 The expected outcome of this dataset will be an Artificial Intelligence (AI) model that localizes and segments all the research objects present in a particular data sample.
 
 # Detailed description
-A detailed description of the dataset and data acquisition process is available in the data article in 'Data in Brief' journal as a pre-print at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4593178  
+The data article in the journal "Data in Brief" provides a thorough explanation of the dataset and the data acquisition procedure. It can be accessed at https://www.sciencedirect.com/science/article/pii/S2352340923009678
 
 # Citation
 If you find this dataset helpful and use it in your work, kindly cite this dataset using “Michael, Justina; M, Thenmozhi (2023), “SorghumWeedDataset_Segmentation”, Mendeley Data, V1, doi: 10.17632/y9bmtf4xmr.1”
